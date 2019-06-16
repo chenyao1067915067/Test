@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vant
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Test
+这是一个测试的项目。
+>>>>>>> 234995768ca005ca039da2a0fe772fdf17ef0d52
